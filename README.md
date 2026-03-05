@@ -43,8 +43,9 @@ Book Prices
 Save the extracted data to Excel file.
 
 📦 Installation
+
 1️⃣ Clone the repository
-git clone 
+git clone : https://github.com/Mohamed-Shahid8668/Web-Scraping.git
 
 2️⃣ Install dependencies
 pip install -r requirements.txt
@@ -65,12 +66,15 @@ After execution, an Excel file will be created:
 books with prices.xlsx
 
 📊 Example Output
+
 Book Name	Price
 Python Programming	₹450
 Data Science Handbook	₹799
+
 ⚠️ Note
 
 Amazon frequently updates its HTML structure. If elements are not detected, the CSS selectors or XPath may need to be updated.
 
 Author
+
 Mohamed Sahid M
